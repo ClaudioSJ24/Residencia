@@ -1,0 +1,4 @@
+Página web -> Real academia española 
+https://definicion.de/pagina-web/
+
+npm i @fortawesome/angular-fontawesome
